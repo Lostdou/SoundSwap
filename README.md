@@ -6,6 +6,6 @@ Aplicación de escritorio para transferir playlists entre YT y Spotify (potencia
 
 - [x] Requestear las canciones desde spotify
 - [x] Crear una playlist en YT 
-- [] Buscar esas canciones en YT e insertar las canciones
+- [X] Buscar esas canciones en YT e insertar las canciones
 - [] El mismo proceso, pero al reves
 - [] Seria bueno una interfaz, no?
